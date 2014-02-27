@@ -1,3 +1,3 @@
-# code-school theme
+# Code School 2 theme
 
-A short description of your theme.
+Code School 2 TextMate theme for Atom
