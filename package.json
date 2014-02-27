@@ -1,0 +1,12 @@
+{
+  "name": "code-school",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Code School 2 theme for Atom",
+  "repository": "https://github.com/leejarvis/atom-code-school-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
