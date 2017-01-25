@@ -4,7 +4,7 @@
   "version": "0.6.0",
   "private": true,
   "description": "Code School 2 theme for Atom",
-  "repository": "https://github.com/leejarvis/atom-code-school-theme",
+  "repository": "https://github.com/aiomaster/atom-code-school-theme",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13"
